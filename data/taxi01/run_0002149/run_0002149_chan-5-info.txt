@@ -1,0 +1,26 @@
+channel[5]: uid: 
+   0025000c4853500520353041
+channel[5] config:
+   dac_threshold: 1394
+   dac_voltage: 2620
+
+channel[5] monitor:
+   aux_temp: 0.000000
+   ext_temp: 296.281000
+   vcca: 0.000000
+
+channel[5] run start:
+   year: 2025
+   second: 15187413
+   microsecond: 962208
+
+channel[5] run stop:
+   year: 2025
+   second: 15187535
+   microsecond: 158208
+
+channel[5] run stats:
+   counts: 51147
+   overflows: 0
+   duration_ms: 121174
+   rate: 422.095499
