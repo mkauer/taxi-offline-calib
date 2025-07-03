@@ -1,0 +1,254 @@
+{
+    "runNum": "0002368", 
+    "0025001b4853500520353041": {
+        "channel": "1", 
+        "voltage": 2440, 
+        "threshold": 1338, 
+        "temperature": 6.8180000000000405, 
+        "temp_K": 279.968, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 223.69911504424778, 
+        "thresh": -223.69911504424778, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "0033000b4853500720353041": {
+        "channel": "2", 
+        "voltage": 2440, 
+        "threshold": 1344, 
+        "temperature": 7.131000000000029, 
+        "temp_K": 280.281, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 23.720158199064407, 
+            "N": 19299.999999415224, 
+            "tau": 56.37742696418381, 
+            "M": 10.00000009718236, 
+            "mean": 290.00000000000006, 
+            "mean_err": 5831628.876218268, 
+            "sig": 50.00000000000001, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 36.478260869565275, 
+            "adcPerMIP_err": 5831628.876218268
+        }, 
+        "bad_adcfit_reasons": [
+            "opt[0] at upper bound", 
+            "opt[2] at lower bound", 
+            "opt[3] at lower bound", 
+            "opt[4] at lower bound", 
+            "large chi2 of 23.7"
+        ], 
+        "pedestal": 253.52173913043478, 
+        "thresh": 30.47826086956522, 
+        "adcPerMIP": 300.3584326233888, 
+        "good_pefit": false, 
+        "pefit_results": {
+            "fit_iter": 4, 
+            "chi2": 0.0702748931497347, 
+            "N": 138.52025075448458, 
+            "tau": 41.36112282236561, 
+            "M": 0.001997257546792752, 
+            "mean": 553.8801717538236, 
+            "mean_err": 30.93794377171198, 
+            "sig": 9.99999541535592, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 300.3584326233888, 
+            "adcPerMIP_err": 30.93794377171198, 
+            "pePerMIP": 34.666290520182, 
+            "pePerMIP_err": 3.5707462498048317
+        }, 
+        "bad_pefit_reasons": [
+            "opt[4] at upper bound"
+        ], 
+        "gain": 8.664279567164138, 
+        "good_gain": true, 
+        "bad_gain_reasons": [], 
+        "pePerMIP": 34.666290520182
+    }, 
+    "0025000f4853500520353041": {
+        "channel": "3", 
+        "voltage": 2440, 
+        "threshold": 1338, 
+        "temperature": 6.881000000000029, 
+        "temp_K": 280.031, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 228.08620689655172, 
+        "thresh": 57.913793103448285, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "gain possibly wrong", 
+            "pe mip pre-fit failed"
+        ], 
+        "gain": 28.49458110010835, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "large maxbin-meanbin = 0.47"
+        ]
+    }, 
+    "002100384853500520353041": {
+        "channel": "4", 
+        "voltage": 2440, 
+        "threshold": 1340, 
+        "temperature": 6.4430000000000405, 
+        "temp_K": 279.593, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 289.79661016949154, 
+        "thresh": 22.203389830508456, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "peak found at last bin 1000"
+        ], 
+        "gain": 8.202481476628959, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "peak found at last bin 1000"
+        ]
+    }, 
+    "0025000c4853500520353041": {
+        "channel": "5", 
+        "voltage": 2440, 
+        "threshold": 1340, 
+        "temperature": 6.381000000000029, 
+        "temp_K": 279.531, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 259.32173913043476, 
+        "thresh": -259.32173913043476, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "002400084853500520353041": {
+        "channel": "6", 
+        "voltage": 2440, 
+        "threshold": 1340, 
+        "temperature": 6.5680000000000405, 
+        "temp_K": 279.718, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 254.66071428571428, 
+        "thresh": 36.33928571428572, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "pe mip pre-fit failed"
+        ], 
+        "gain": 9.947759152825366, 
+        "good_gain": true, 
+        "bad_gain_reasons": []
+    }, 
+    "002500104853500520353041": {
+        "channel": "7", 
+        "voltage": 2440, 
+        "threshold": 1351, 
+        "temperature": 6.131000000000029, 
+        "temp_K": 279.281, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 61.899292208546846, 
+            "N": 39799.99999998682, 
+            "tau": 68.37017103265441, 
+            "M": 10.000000002730035, 
+            "mean": 338.00000000000006, 
+            "mean_err": 19990100.54046433, 
+            "sig": 50.00000000000001, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 32.617391304347905, 
+            "adcPerMIP_err": 19990100.54046433
+        }, 
+        "bad_adcfit_reasons": [
+            "opt[0] at upper bound", 
+            "opt[2] at lower bound", 
+            "opt[3] at lower bound", 
+            "opt[4] at lower bound", 
+            "large chi2 of 61.9"
+        ], 
+        "pedestal": 305.38260869565215, 
+        "thresh": 26.617391304347848, 
+        "adcPerMIP": 265.62442172974, 
+        "good_pefit": false, 
+        "pefit_results": {
+            "fit_iter": 5, 
+            "chi2": 0.003772647219551992, 
+            "N": 1188.6909883859541, 
+            "tau": 40.00000000000001, 
+            "M": 0.003271544309979922, 
+            "mean": 571.0070304253921, 
+            "mean_err": 50.61145173288562, 
+            "sig": 27.258266689566824, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 265.62442172974, 
+            "adcPerMIP_err": 50.61145173288562, 
+            "pePerMIP": 29.068531518563393, 
+            "pePerMIP_err": 5.53864953499837
+        }, 
+        "bad_pefit_reasons": [
+            "opt[1] at lower bound"
+        ], 
+        "gain": 9.1378686109448, 
+        "good_gain": true, 
+        "bad_gain_reasons": [], 
+        "pePerMIP": 29.068531518563393
+    }, 
+    "0025001c4853500520353041": {
+        "channel": "8", 
+        "voltage": 2440, 
+        "threshold": 1344, 
+        "temperature": 6.3180000000000405, 
+        "temp_K": 279.468, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 266.84033613445376, 
+        "thresh": -1.8403361344537643, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }
+}

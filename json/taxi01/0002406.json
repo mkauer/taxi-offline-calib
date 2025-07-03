@@ -1,0 +1,196 @@
+{
+    "runNum": "0002406", 
+    "0025001b4853500520353041": {
+        "channel": "1", 
+        "voltage": 2440, 
+        "threshold": 1338, 
+        "temperature": 16.38100000000003, 
+        "temp_K": 289.531, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 229.0420168067227, 
+        "thresh": -229.0420168067227, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "0033000b4853500720353041": {
+        "channel": "2", 
+        "voltage": 2440, 
+        "threshold": 1344, 
+        "temperature": 16.19300000000004, 
+        "temp_K": 289.343, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 257.45762711864404, 
+        "thresh": -257.45762711864404, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "0025000f4853500520353041": {
+        "channel": "3", 
+        "voltage": 2440, 
+        "threshold": 1338, 
+        "temperature": 15.69300000000004, 
+        "temp_K": 288.843, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 230.4915254237288, 
+        "thresh": -230.4915254237288, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "002100384853500520353041": {
+        "channel": "4", 
+        "voltage": 2440, 
+        "threshold": 1340, 
+        "temperature": 15.131000000000029, 
+        "temp_K": 288.281, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 294.57758620689657, 
+        "thresh": -294.57758620689657, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "0025000c4853500520353041": {
+        "channel": "5", 
+        "voltage": 2440, 
+        "threshold": 1340, 
+        "temperature": 15.06800000000004, 
+        "temp_K": 288.218, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 262.02564102564105, 
+        "thresh": -262.02564102564105, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "002400084853500520353041": {
+        "channel": "6", 
+        "voltage": 2440, 
+        "threshold": 1340, 
+        "temperature": 15.256000000000029, 
+        "temp_K": 288.406, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 260.84684684684686, 
+        "thresh": -260.84684684684686, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }, 
+    "002500104853500520353041": {
+        "channel": "7", 
+        "voltage": 2440, 
+        "threshold": 1351, 
+        "temperature": 14.756000000000029, 
+        "temp_K": 287.906, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 310.88695652173914, 
+        "thresh": 23.113043478260863, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "gain possibly wrong", 
+            "pe mip pre-fit failed"
+        ], 
+        "gain": 19.811789955673465, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "large maxbin-meanbin = 0.26"
+        ]
+    }, 
+    "0025001c4853500520353041": {
+        "channel": "8", 
+        "voltage": 2440, 
+        "threshold": 1344, 
+        "temperature": 15.19300000000004, 
+        "temp_K": 288.343, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "adc mip pre-fit failed"
+        ], 
+        "pedestal": 269.79831932773106, 
+        "thresh": -269.79831932773106, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "expo fit to gain FFT failed"
+        ], 
+        "gain": 0, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "expo fit to gain FFT failed"
+        ]
+    }
+}

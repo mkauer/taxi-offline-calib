@@ -1,0 +1,379 @@
+{
+    "runNum": "0002372", 
+    "0025001b4853500520353041": {
+        "channel": "1", 
+        "voltage": 2520, 
+        "threshold": 1362, 
+        "temperature": 6.881000000000029, 
+        "temp_K": 280.031, 
+        "good_adcfit": false, 
+        "adcfit_results": false, 
+        "bad_adcfit_reasons": [
+            "large maxbin-firstdata = 95", 
+            "adc mip re-fit failed"
+        ], 
+        "pedestal": 223.83050847457628, 
+        "thresh": 79.16949152542372, 
+        "good_pefit": false, 
+        "pefit_results": {
+            "fit_iter": 2, 
+            "chi2": 0.019276538145475728, 
+            "N": 14.668961211626025, 
+            "tau": 109.42270788108121, 
+            "M": 2.2325769617906452, 
+            "mean": 420.62782813945, 
+            "mean_err": 68.89679800753302, 
+            "sig": 44.143424473301685, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 196.79731966487373, 
+            "adcPerMIP_err": 68.89679800753302, 
+            "pePerMIP": 20.396804238853306, 
+            "pePerMIP_err": 7.140719721368727
+        }, 
+        "bad_pefit_reasons": [
+            "large maxbin-firstdata = 95"
+        ], 
+        "gain": 9.648438910346552, 
+        "good_gain": true, 
+        "bad_gain_reasons": [], 
+        "adcPerMIP": 196.79731966487373, 
+        "pePerMIP": 20.396804238853306
+    }, 
+    "0033000b4853500720353041": {
+        "channel": "2", 
+        "voltage": 2520, 
+        "threshold": 1368, 
+        "temperature": 7.1930000000000405, 
+        "temp_K": 280.343, 
+        "good_adcfit": true, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 3.035326951718628, 
+            "N": 11583.723587030669, 
+            "tau": 81.49488932796378, 
+            "M": 387.31719729259504, 
+            "mean": 531.3189835542906, 
+            "mean_err": 2.3819261060306336, 
+            "sig": 68.11033851465363, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 277.1907784260855, 
+            "adcPerMIP_err": 2.3819261060306336
+        }, 
+        "bad_adcfit_reasons": [], 
+        "pedestal": 254.12820512820514, 
+        "thresh": 55.87179487179486, 
+        "adcPerMIP": 277.81989082541116, 
+        "good_pefit": true, 
+        "pefit_results": {
+            "fit_iter": 3, 
+            "chi2": 0.012424946990685772, 
+            "N": 44.827352614870144, 
+            "tau": 82.85300212831811, 
+            "M": 1.6029263265222244, 
+            "mean": 531.9480959536163, 
+            "mean_err": 2.45812017423254, 
+            "sig": 68.26121013935794, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 277.81989082541116, 
+            "adcPerMIP_err": 2.45812017423254, 
+            "pePerMIP": 13.901050667163267, 
+            "pePerMIP_err": 0.12299498421967306
+        }, 
+        "bad_pefit_reasons": [
+            "gain possibly wrong"
+        ], 
+        "gain": 19.98553184772362, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "large maxbin-meanbin = 0.35"
+        ], 
+        "pePerMIP": 13.901050667163267
+    }, 
+    "0025000f4853500520353041": {
+        "channel": "3", 
+        "voltage": 2520, 
+        "threshold": 1362, 
+        "temperature": 6.9430000000000405, 
+        "temp_K": 280.093, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 2, 
+            "chi2": 1.1665086117768122, 
+            "N": 92.71448920457321, 
+            "tau": 303.79295635509624, 
+            "M": 430.02409448109364, 
+            "mean": 478.0000002746129, 
+            "mean_err": 156.5491220679938, 
+            "sig": 56.22868789525911, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 250.90756329982298, 
+            "adcPerMIP_err": 156.5491220679938
+        }, 
+        "bad_adcfit_reasons": [
+            "large maxbin-firstdata = 167", 
+            "opt[3] at lower bound"
+        ], 
+        "pedestal": 227.0924369747899, 
+        "thresh": 83.9075630252101, 
+        "adcPerMIP": 845.3801669560471, 
+        "good_pefit": false, 
+        "pefit_results": {
+            "fit_iter": 3, 
+            "chi2": 0.003277701492400878, 
+            "N": 18.112752350945005, 
+            "tau": 161.31373976420176, 
+            "M": 0.05897038843855835, 
+            "mean": 1072.472603930837, 
+            "mean_err": 39.42938849986503, 
+            "sig": 150.4922284926494, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 845.3801669560471, 
+            "adcPerMIP_err": 39.42938849986503, 
+            "pePerMIP": 23.355239525107606, 
+            "pePerMIP_err": 1.0893120618841645
+        }, 
+        "bad_pefit_reasons": [
+            "gain possibly wrong", 
+            "large maxbin-firstdata = 167"
+        ], 
+        "gain": 36.19659588792644, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "large maxbin-meanbin = 0.46"
+        ], 
+        "pePerMIP": 23.355239525107606
+    }, 
+    "002100384853500520353041": {
+        "channel": "4", 
+        "voltage": 2520, 
+        "threshold": 1364, 
+        "temperature": 6.506000000000029, 
+        "temp_K": 279.656, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 4.216465113942803, 
+            "N": 28099.999999999993, 
+            "tau": 74.49414291620715, 
+            "M": 427.3899503867324, 
+            "mean": 518.295664314959, 
+            "mean_err": 2.306317148760125, 
+            "sig": 55.95350029108616, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 227.84349040191557, 
+            "adcPerMIP_err": 2.306317148760125
+        }, 
+        "bad_adcfit_reasons": [
+            "opt[0] at upper bound"
+        ], 
+        "pedestal": 290.45217391304345, 
+        "thresh": 50.54782608695655, 
+        "adcPerMIP": 224.46194118778715, 
+        "good_pefit": true, 
+        "pefit_results": {
+            "fit_iter": 2, 
+            "chi2": 0.0132372635910851, 
+            "N": 176.36901460618387, 
+            "tau": 66.87551065875759, 
+            "M": 1.5951583188989407, 
+            "mean": 514.9141151008306, 
+            "mean_err": 2.4913176078931873, 
+            "sig": 56.823736031256466, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 224.46194118778715, 
+            "adcPerMIP_err": 2.4913176078931873, 
+            "pePerMIP": 24.345670412404633, 
+            "pePerMIP_err": 0.27021417106807033
+        }, 
+        "bad_pefit_reasons": [], 
+        "gain": 9.21978887356575, 
+        "good_gain": true, 
+        "bad_gain_reasons": [], 
+        "pePerMIP": 24.345670412404633
+    }, 
+    "0025000c4853500520353041": {
+        "channel": "5", 
+        "voltage": 2520, 
+        "threshold": 1364, 
+        "temperature": 6.4430000000000405, 
+        "temp_K": 279.593, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 4.031835197537262, 
+            "N": 21299.99999999943, 
+            "tau": 70.52084195710374, 
+            "M": 462.6095735143924, 
+            "mean": 441.159047223441, 
+            "mean_err": 5.98759926755385, 
+            "sig": 50.00000000000001, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 183.20252548431057, 
+            "adcPerMIP_err": 5.98759926755385
+        }, 
+        "bad_adcfit_reasons": [
+            "opt[0] at upper bound", 
+            "opt[4] at lower bound"
+        ], 
+        "pedestal": 257.95652173913044, 
+        "thresh": 62.04347826086956, 
+        "adcPerMIP": 185.91068636852287, 
+        "good_pefit": true, 
+        "pefit_results": {
+            "fit_iter": 3, 
+            "chi2": 0.013081446148472037, 
+            "N": 14.201929973183551, 
+            "tau": 124.20863816259296, 
+            "M": 1.4290737905276791, 
+            "mean": 443.8672081076533, 
+            "mean_err": 1.9384963169141853, 
+            "sig": 37.51382385017966, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 185.91068636852287, 
+            "adcPerMIP_err": 1.9384963169141853, 
+            "pePerMIP": 8.377770798585491, 
+            "pePerMIP_err": 0.08735526802809374
+        }, 
+        "bad_pefit_reasons": [
+            "gain possibly wrong"
+        ], 
+        "gain": 22.190949220037407, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "large maxbin-meanbin = 0.37"
+        ], 
+        "pePerMIP": 8.377770798585491
+    }, 
+    "002400084853500520353041": {
+        "channel": "6", 
+        "voltage": 2520, 
+        "threshold": 1364, 
+        "temperature": 6.6930000000000405, 
+        "temp_K": 279.843, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 2, 
+            "chi2": 5.912998276516739, 
+            "N": 22399.999999999996, 
+            "tau": 71.78786324237406, 
+            "M": 423.344166363924, 
+            "mean": 473.89159719956933, 
+            "mean_err": 3.8571532040721572, 
+            "sig": 54.760593245352425, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 219.01125531922744, 
+            "adcPerMIP_err": 3.8571532040721572
+        }, 
+        "bad_adcfit_reasons": [
+            "opt[0] at upper bound"
+        ], 
+        "pedestal": 254.8803418803419, 
+        "thresh": 67.11965811965811, 
+        "adcPerMIP": 219.01125531922744, 
+        "good_pefit": false, 
+        "pefit_results": false, 
+        "bad_pefit_reasons": [
+            "large maxbin-meanbin = 0.26"
+        ], 
+        "gain": 9.45808480479984, 
+        "good_gain": false, 
+        "bad_gain_reasons": [
+            "large maxbin-meanbin = 0.26"
+        ]
+    }, 
+    "002500104853500520353041": {
+        "channel": "7", 
+        "voltage": 2520, 
+        "threshold": 1375, 
+        "temperature": 6.1930000000000405, 
+        "temp_K": 279.343, 
+        "good_adcfit": true, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 2.016225228895412, 
+            "N": 33014.58596781998, 
+            "tau": 78.9304567582961, 
+            "M": 342.5419494215894, 
+            "mean": 590.5851347847653, 
+            "mean_err": 2.905011889282925, 
+            "sig": 71.42899680251348, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 284.2342575917828, 
+            "adcPerMIP_err": 2.905011889282925
+        }, 
+        "bad_adcfit_reasons": [], 
+        "pedestal": 306.35087719298247, 
+        "thresh": 52.649122807017534, 
+        "adcPerMIP": 284.31861437161024, 
+        "good_pefit": true, 
+        "pefit_results": {
+            "fit_iter": 2, 
+            "chi2": 0.005950948857071675, 
+            "N": 96.82642474099818, 
+            "tau": 79.06064819660493, 
+            "M": 1.0126142185246654, 
+            "mean": 590.6694915645927, 
+            "mean_err": 2.9598738711497257, 
+            "sig": 71.4292065829338, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 284.31861437161024, 
+            "adcPerMIP_err": 2.9598738711497257, 
+            "pePerMIP": 32.7139536878633, 
+            "pePerMIP_err": 0.34056573100820997
+        }, 
+        "bad_pefit_reasons": [], 
+        "gain": 8.691050219255244, 
+        "good_gain": true, 
+        "bad_gain_reasons": [], 
+        "pePerMIP": 32.7139536878633
+    }, 
+    "0025001c4853500520353041": {
+        "channel": "8", 
+        "voltage": 2520, 
+        "threshold": 1368, 
+        "temperature": 6.381000000000029, 
+        "temp_K": 279.531, 
+        "good_adcfit": false, 
+        "adcfit_results": {
+            "fit_iter": 1, 
+            "chi2": 2.7838430099938223, 
+            "N": 33999.99999999999, 
+            "tau": 69.60502790920356, 
+            "M": 411.60834561601865, 
+            "mean": 448.31379274098606, 
+            "mean_err": 5.095198333424714, 
+            "sig": 50.00000000000001, 
+            "out_of_bounds": true, 
+            "adcPerMIP": 181.72404915124247, 
+            "adcPerMIP_err": 5.095198333424714
+        }, 
+        "bad_adcfit_reasons": [
+            "opt[0] at upper bound", 
+            "opt[4] at lower bound"
+        ], 
+        "pedestal": 266.5897435897436, 
+        "thresh": 49.41025641025641, 
+        "adcPerMIP": 183.35541660964202, 
+        "good_pefit": true, 
+        "pefit_results": {
+            "fit_iter": 3, 
+            "chi2": 0.01695808928306523, 
+            "N": 70.43230978766091, 
+            "tau": 75.55569913503778, 
+            "M": 1.1679319644042834, 
+            "mean": 449.9451601993856, 
+            "mean_err": 2.279076613423418, 
+            "sig": 43.38018666288813, 
+            "out_of_bounds": false, 
+            "adcPerMIP": 183.35541660964202, 
+            "adcPerMIP_err": 2.279076613423418, 
+            "pePerMIP": 16.594312532963094, 
+            "pePerMIP_err": 0.20626447971391157
+        }, 
+        "bad_pefit_reasons": [], 
+        "gain": 11.049292716731902, 
+        "good_gain": true, 
+        "bad_gain_reasons": [], 
+        "pePerMIP": 16.594312532963094
+    }
+}

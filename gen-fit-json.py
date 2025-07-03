@@ -24,9 +24,8 @@ load_pickle = 0
 taxi = 'taxi01'
 #taxi = 'taxi02'
 
-#runs = list(range(2139, 2443))
 runs = [2149]
-
+#runs = list(range(2139, 2443))
 
 
 data_dir = './data/'+taxi
