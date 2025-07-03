@@ -1,0 +1,8 @@
+*~
+*#*
+*.swp
+*.swo
+*.pyc
+*.html
+*ipynb_checkpoints
+*egg-info
